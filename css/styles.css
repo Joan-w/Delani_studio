@@ -13,3 +13,31 @@
     padding: 0;
     color: white;
 }
+h1{
+    font-weight: bold;
+    line-height: 8vh;
+}
+
+#mouse:hover{
+    animation: 5s infinite;
+}
+
+
+
+#header-one{
+    padding-top: 40vh;
+    padding-bottom: 20vh;
+}
+
+#about-t{
+    margin: 5vh 0;
+}
+
+
+#about-b{
+    font-size: 20px;
+}
+
+#our-work{
+    padding-bottom: 5vh;
+}
