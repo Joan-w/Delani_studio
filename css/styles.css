@@ -100,3 +100,11 @@ textarea{
 #footer{
     margin-top: 2vh;
 }
+.text-p, .text-p1, .text-p2, .text-p3, .text-p4, .text-p5, .text-p6, .text-p7{
+    margin: -50% 25%;
+    background-color: rgba(255, 255, 255, 0.8);
+    color: red;
+    position: absolute;
+    float: right;
+    padding: 2vh 2vh;
+}
