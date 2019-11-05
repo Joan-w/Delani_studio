@@ -41,3 +41,29 @@ h1{
 #our-work{
     padding-bottom: 5vh;
 }
+#services{
+    background-image: url(../images/backgrounds/s_image.jpg);
+    margin: 5vh 0;
+    padding: 8vh 20vh;
+    color: white;
+    line-height: 5vh;
+}
+
+#services > p{
+    font-size: 20px;
+}
+
+.contact_form{
+    background-image: url("../images/backgrounds/c_image.jpg");
+    margin: 5vh 0;
+}
+
+#head{
+    padding-top: 10vh;
+    font-size: 4vh;
+    color: white;
+}
+
+#designPar2, #developmentPar2, #productPar2{
+    display: none;
+}
