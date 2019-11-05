@@ -67,3 +67,36 @@ h1{
 #designPar2, #developmentPar2, #productPar2{
     display: none;
 }
+input[type=text]{
+    background: transparent;
+    margin-top: 20px;
+    padding-top: 10px;
+    border: 2px white solid;
+}
+
+input[type=mail]{
+    background: transparent;
+    margin-top: 20px;
+    border: 2px white solid;
+}
+
+textarea{
+    padding: 5vh auto;
+    margin: 5vh auto;
+    background: transparent;
+    border: 2px white solid;
+}
+
+::placeholder{
+    color: white;
+}
+
+#send{
+    margin-bottom: 20px;
+    color: black;
+    width: 5vw;
+}
+
+#footer{
+    margin-top: 2vh;
+}
